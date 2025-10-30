@@ -1,0 +1,18 @@
+.sidebar {
+  height: 100vh;
+  width: 80px;
+  background-color: #ffa500; /* Orange */
+  transition: width 0.3s ease;
+  overflow: hidden;
+  padding: 1rem 0.5rem;
+}
+
+.sidebar:hover {
+  width: 200px;
+}
+
+.sidebar .nav-link {
+  white-space: nowrap;
+  overflow: hidden;
+  transition: all 0.3s ease;
+}

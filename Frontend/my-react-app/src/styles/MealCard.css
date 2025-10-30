@@ -1,0 +1,4 @@
+/* src/styles/MealCard.css */
+.meal-card img {
+  object-fit: cover;
+}

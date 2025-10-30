@@ -1,0 +1,8 @@
+.fullscreen-wrapper {
+  height: 100vh; /* Full viewport height */
+  display: flex;
+  justify-content: center; /* Horizontally center */
+  align-items: center; /* Vertically center */
+  background-color: #f8f9fa; /* Optional: light background */
+  padding-top: 60px; 
+}
