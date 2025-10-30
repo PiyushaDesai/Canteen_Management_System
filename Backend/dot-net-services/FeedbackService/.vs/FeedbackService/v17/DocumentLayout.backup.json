@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PROJECT\\Canteen-Management-System\\Backend\\dot-net-services\\FeedbackService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C22CCE76-F8E6-419B-9F49-F4C77C974FA6}|FeedbackService\\FeedbackService.csproj|d:\\project\\canteen-management-system\\backend\\dot-net-services\\feedbackservice\\feedbackservice\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C22CCE76-F8E6-419B-9F49-F4C77C974FA6}|FeedbackService\\FeedbackService.csproj|solutionrelative:feedbackservice\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C22CCE76-F8E6-419B-9F49-F4C77C974FA6}|FeedbackService\\FeedbackService.csproj|d:\\project\\canteen-management-system\\backend\\dot-net-services\\feedbackservice\\feedbackservice\\data\\feedbackdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C22CCE76-F8E6-419B-9F49-F4C77C974FA6}|FeedbackService\\FeedbackService.csproj|solutionrelative:feedbackservice\\data\\feedbackdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C22CCE76-F8E6-419B-9F49-F4C77C974FA6}|FeedbackService\\FeedbackService.csproj|d:\\project\\canteen-management-system\\backend\\dot-net-services\\feedbackservice\\feedbackservice\\feedbackservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C22CCE76-F8E6-419B-9F49-F4C77C974FA6}|FeedbackService\\FeedbackService.csproj|solutionrelative:feedbackservice\\feedbackservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FeedbackDbContext.cs",
+              "DocumentMoniker": "D:\\PROJECT\\Canteen-Management-System\\Backend\\dot-net-services\\FeedbackService\\FeedbackService\\Data\\FeedbackDbContext.cs",
+              "RelativeDocumentMoniker": "FeedbackService\\Data\\FeedbackDbContext.cs",
+              "ToolTip": "D:\\PROJECT\\Canteen-Management-System\\Backend\\dot-net-services\\FeedbackService\\FeedbackService\\Data\\FeedbackDbContext.cs",
+              "RelativeToolTip": "FeedbackService\\Data\\FeedbackDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T08:47:27.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FeedbackController.cs",
+              "DocumentMoniker": "D:\\PROJECT\\Canteen-Management-System\\Backend\\dot-net-services\\FeedbackService\\FeedbackService\\Controllers\\FeedbackController.cs",
+              "RelativeDocumentMoniker": "FeedbackService\\Controllers\\FeedbackController.cs",
+              "ToolTip": "D:\\PROJECT\\Canteen-Management-System\\Backend\\dot-net-services\\FeedbackService\\FeedbackService\\Controllers\\FeedbackController.cs",
+              "RelativeToolTip": "FeedbackService\\Controllers\\FeedbackController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T08:45:38.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FeedbackService",
+              "DocumentMoniker": "D:\\PROJECT\\Canteen-Management-System\\Backend\\dot-net-services\\FeedbackService\\FeedbackService\\FeedbackService.csproj",
+              "RelativeDocumentMoniker": "FeedbackService\\FeedbackService.csproj",
+              "ToolTip": "D:\\PROJECT\\Canteen-Management-System\\Backend\\dot-net-services\\FeedbackService\\FeedbackService\\FeedbackService.csproj",
+              "RelativeToolTip": "FeedbackService\\FeedbackService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-25T08:45:24.824Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

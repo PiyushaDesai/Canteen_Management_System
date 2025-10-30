@@ -1,0 +1,29 @@
+/.metadata/
+
+
+
+# Eclipse-specific files
+.classpath
+.project
+.settings/
+.factorypath
+
+# Build output
+target/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+
+Backend/canteen-backend/.metadata/
+Backend/dot-net-services/FeedbackService/FeedbackService/obj/
+Backend/dot-net-services/FeedbackService/FeedbackService/bin/
